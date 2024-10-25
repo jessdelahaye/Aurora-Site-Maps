@@ -362,7 +362,7 @@
       "type": "Feature",
       "properties": {
         "ServiceName": "Woodlands School",
-        "marker-color": "#cac9ca",
+        "marker-color": "#a0d1ff",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -379,7 +379,7 @@
       "type": "Feature",
       "properties": {
         "ServiceName": "Ryefields School",
-        "marker-color": "#a0d1ff",
+        "marker-color": "#cac9ca",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
